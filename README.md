@@ -24,10 +24,10 @@
 
 <h3 align="center">Stats:</h3>
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dobenkss&show_icons=true&locale=en&layout=compact" alt="dobenkss">
-  <br>
 <img src="https://github-readme-stats.vercel.app/api?username=dobenkss&show_icons=true&locale=en" alt="dobenkss">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dobenkss&" alt="dobenkss">
+  <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dobenkss&show_icons=true&locale=en&layout=compact" alt="dobenkss">
 </div>
 
 <h3 align="center">My Contributions </h3>
