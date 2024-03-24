@@ -31,5 +31,5 @@
 
 <h3 align="center">My Contributions </h3>
 <div align=center>
-  ![snake animation](https://github.com/<seu Dobenkss>/<seu Dobenkss>/blob/output/github-contribution-grid-snake2.svg)
+  ![snake animation](https://github.com/<Dobenkss>/<Dobenkss>/blob/output/github-contribution-grid-snake2.svg)
 </div>
